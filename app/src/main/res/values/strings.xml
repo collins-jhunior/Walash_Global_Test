@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Walash Global Test</string>
+    <string name="enter_your_id_here">Enter your ID here</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+    <string name="contributions">Contributions</string>
+    <string name="tap_to_select_date">Tap to select date</string>
+    <string name="enter_contribution_amount_in_naira">Enter contribution amount in Naira</string>
+    <string name="add_data">Add Data</string>
+    <string name="user_id">User ID</string>
+    <string name="amount">Amount</string>
+</resources>
